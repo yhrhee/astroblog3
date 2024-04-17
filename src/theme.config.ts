@@ -1,8 +1,8 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "活版印字",
+  title: "西学东渐",
   /** your name */
-  author: "Typography",
+  author: "YH",
   /** website description */
   desc: "Rediscory the beauty of typography",
   /** your deployed domain */
@@ -15,7 +15,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
   socials: [
     {
       name: "github",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/yhrhee",
     },
     {
       name: "rss",
@@ -27,7 +27,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
     },
     {
       name: "mastodon",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/yhrhee",
     }
   ],
   /** your header info */
