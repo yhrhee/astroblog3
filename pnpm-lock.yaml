@@ -14,7 +14,7 @@ dependencies:
   '@astrojs/rss':
     specifier: ^4.0.4
     version: 4.0.5
-  '@astrojs/sitemap':
+  '@astrojs/sitemap':language
     specifier: ^3.0.5
     version: 3.1.1
   '@github/clipboard-copy-element':
